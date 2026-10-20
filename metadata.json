@@ -1,0 +1,11 @@
+{
+  "name": "आDaan -Rural Resource \u0026 Residue Exchange",
+  "description": "AI-powered integrated rural resource and biomass exchange platform connecting farmers for agricultural machinery sharing, stubble/crop residue barter, proximity matching, and multilingual discovery.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
